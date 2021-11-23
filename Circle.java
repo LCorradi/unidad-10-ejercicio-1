@@ -3,7 +3,9 @@ public class Circle {
    private String color;
    private boolean border;
    private String borderColor;
-   
+   private boolean border;
+   private String borderColor;
+
    public Circle() {
       radius = 1.0;
       color = "red";
